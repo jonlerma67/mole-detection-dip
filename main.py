@@ -1,0 +1,1 @@
+print("Proyecto de detección de lunares iniciado")
